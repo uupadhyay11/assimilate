@@ -1,0 +1,2 @@
+# assimilate
+Assimilate with Bash
